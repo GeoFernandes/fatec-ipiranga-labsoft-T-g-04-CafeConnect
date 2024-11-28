@@ -27,3 +27,7 @@ O projeto é dividido em duas partes principais:
 2. Puxe a imagem do back-end:
    ```bash
    docker pull gehfernandes/api-cafe-connect:latest
+
+3. Puxe a imagem do front-end:
+   ```bash
+   docker pull gehfernandes/spa-cafe-connect:latest
